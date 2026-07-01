@@ -143,6 +143,7 @@ CAFASeg-Net can be evaluated using commonly used binary segmentation metrics:
 | HD95 | Measures the 95th percentile Hausdorff distance for boundary accuracy. |
 | Component Recall | Measures the ability to recover separated foreground components. |
 | FPS | Reports inference speed under the selected runtime environment. |
+<img width="2901" height="690" alt="image" src="https://github.com/user-attachments/assets/c6235220-3104-4194-ac74-00d12f9cfcd9" />
 
 These metrics provide complementary views of segmentation quality, including region-level accuracy, boundary-level quality, object-level completeness, and computational efficiency.
 
