@@ -198,10 +198,6 @@ The codebase is organized for readability and modular inspection. Core architect
 
 ---
 
-## Citation
-
-If this repository is useful for your research, please cite it as:
-
 ---
 
 ## License
