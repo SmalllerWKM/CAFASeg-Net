@@ -591,14 +591,7 @@ Large assets should be stored outside GitHub or managed through a dedicated arti
 
 If this repository is useful for your research, please cite the corresponding paper or project page.
 
-```bibtex
-@article{cafasegnet,
-  title   = {CAFASeg-Net: Boundary-Aware Segmentation for Foreground Tissue Segmentation},
-  author  = {Author Name},
-  journal = {Manuscript},
-  year    = {2026}
-}
-```
+
 
 ## License
 
