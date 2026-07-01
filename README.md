@@ -566,26 +566,8 @@ datasets/
 *.engine
 ```
 
-## Suggested GitHub Layout
 
-For a clean public repository, the following layout is recommended:
 
-```text
-CAFASeg-Net/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── config.py
-├── dataset.py
-├── models.py
-├── losses.py
-├── metrics.py
-├── train.py
-├── evaluate.py
-└── inference.py
-```
-
-Large assets should be stored outside GitHub or managed through a dedicated artifact storage system. Generated outputs should not be committed.
 
 ## Citation
 
