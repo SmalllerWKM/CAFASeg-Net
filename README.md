@@ -1,4 +1,6 @@
-<img width="2603" height="1092" alt="image" src="https://github.com/user-attachments/assets/1b4f6f92-dab5-4547-b213-0089925c1b71" /># CAFASeg-Net
+<img width="2943" height="1782" alt="image" src="https://github.com/user-attachments/assets/0c2d8efc-675b-4738-a46e-36c554cbc328" />
+
+# CAFASeg-Net
 
 CAFASeg-Net is a PyTorch implementation of a boundary-aware binary segmentation network designed for endoscopic-style medical image segmentation. The model combines semantic feature extraction, boundary-sensitive representation, multi-scale context aggregation, cross-scale attention fusion, and boundary-enhanced refinement to improve foreground localization in visually complex regions.
 
@@ -126,9 +128,6 @@ CAFASeg-Net/
 ---
 
 ## Results Visualization
-
-The following section is reserved for final qualitative segmentation results. Put result images in `assets/results/` and keep the file names consistent with the paths below.
-
 
 <img width="2603" height="1092" alt="image" src="https://github.com/user-attachments/assets/006a5c75-ece7-41f5-8eb8-5c457312cb60" />
 
